@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sana Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Layyah,Pakistan</h3>
-
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaahmad5555&label=Profile%20views&color=0e75b6&style=flat" alt="sanaahmad5555" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://itzmethedevloper.carrd.co](https://itzmethedevloper.carrd.co)
